@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url('./rain-2538429_1280.jpg'); /* Replace with the direct link to your background image */
+    background-image: url('./rain-2538429_1280.jpg'); 
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -15,7 +15,7 @@ body {
 .card {
     width: 90%;
     max-width: 470px;
-    background-image: url('./Xkjj.gif'); /* Replace with the direct link to your background image */
+    background-image: url('./Xkjj.gif'); 
     background-size: cover;
     background-position: center;
     color: #fff;
