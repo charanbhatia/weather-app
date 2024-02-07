@@ -6,13 +6,18 @@
 }
 
 body {
-    background: #004b49;
+    background-image: url('./rain-2538429_1280.jpg'); /* Replace with the direct link to your background image */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
 }
 
 .card {
     width: 90%;
     max-width: 470px;
-    background: linear-gradient(135deg, #00feba, #5b548a);
+    background-image: url('./Xkjj.gif'); /* Replace with the direct link to your background image */
+    background-size: cover;
+    background-position: center;
     color: #fff;
     margin: 50px auto 0;
     border-radius: 20px;
